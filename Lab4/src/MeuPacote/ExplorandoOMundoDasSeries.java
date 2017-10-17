@@ -2,7 +2,6 @@ package MeuPacote;
 
 import java.util.Scanner;
 /*	Aluno 01: Antônio Carlos
- * 	Aluno 02: Luis Thiago
  */
 /**
  * Classe de Explorar o mundo das séries

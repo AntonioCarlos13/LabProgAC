@@ -1,6 +1,5 @@
 package MeuPacote;
 /*	Aluno 01: Antônio Carlos
- * 	Aluno 02: Luis Thiago
  */
 /**
  * Classe da progressão de Fibonacci
