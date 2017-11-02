@@ -164,9 +164,9 @@ public class Robo {
 	}
 
 	/**
-	 * Recupera o numero de linhas da sala que o robô ocupa.
+	 * Recupera o numero de colunas da sala que o robô ocupa.
 	 * 
-	 * @return o numero de linhas da sala.
+	 * @return o numero de colunas da sala.
 	 */
 	public Integer getColuna() {
 		return coluna;
